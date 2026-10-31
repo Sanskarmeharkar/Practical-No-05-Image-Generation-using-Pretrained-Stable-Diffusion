@@ -3,7 +3,7 @@
 Practical No-05, MIT Academy of Engineering.
 
 **Name:**
-- Sanskar Ramesh Meharkar (<your 202401110029>)
+- Sanskar Ramesh Meharkar PRN:-202401110029
 
 ## About
 This project uses the pretrained Stable Diffusion model (`segmind/tiny-sd`) from the Hugging Face Diffusers library to generate images from text prompts. It studies how three settings change the quality of the generated images:
